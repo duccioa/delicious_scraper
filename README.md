@@ -22,3 +22,10 @@ The results are returned in the following structure:
   ]
 }
 ```
+
+To use it, simply do:
+```
+import delicious_scraper as ds
+
+js = sd.scrape_delicious_user(username="username", destination="./data_folder/file.json", start_page=1, end_page=2)
+```
