@@ -1,7 +1,7 @@
 # Save your Del.icio.us bookmarks to a 'json'
 This is a simple function to collect all of your Del.icio.us bookmarks into a json, including links and tags.
 The results are returned in the following structure:
-'''json
+```json
 {
   "type": "Delicious bookmark collection",
   "collection_date": "07/08/2017 18:24:29",
@@ -21,4 +21,4 @@ The results are returned in the following structure:
     ]
   ]
 }
-'''
+```
