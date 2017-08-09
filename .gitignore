@@ -5,6 +5,9 @@ env/
 .idea/
 _modules/
 main.py
+wip.py
+*.txt
+*.html
 
 
 # Byte-compiled / optimized / DLL files
